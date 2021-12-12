@@ -1,0 +1,19 @@
+{
+  "name": "iot-server",
+  "version": "1.0.0",
+  "description": "Server for IoT data collection",
+  "main": "server.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "Shubh Deep",
+  "license": "ISC",
+  "dependencies": {
+    "cookie-session": "^1.4.0",
+    "cors": "^2.8.5",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "mongoose": "^6.0.10",
+    "passport": "^0.5.0"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "data": {
+    "Sonud sensor (analogue)": 83,
+    "Sonud sensor (digital)": 1,
+    "Rain sensor": 1,
+    "Flame sensor": 1,
+    "Smoke sensor": 82,
+    "Photosensetive sensor": 0,
+    "Humidity": "72.00%",
+    "Temperature": "28.50°C 83.30°F",
+    "Heat index": "31.99°C 89.58°F",
+    "Tilt Sensor": 1,
+    "Distance": "18 cm",
+    "Vibration sensor": 0
+  },
+
+  "data2": {
+    "Sonud sensor (analogue)": 85,
+    "Sonud sensor (digital)": 1,
+    "Rain sensor": 1,
+    "Flame sensor": 0,
+    "Smoke sensor": 42,
+    "Photosensetive sensor": 0,
+    "Humidity": "44.00%",
+    "Temperature": "26.50°C 81.30°F",
+    "Heat index": "33.99°C 85.58°F",
+    "Tilt Sensor": 1,
+    "Distance": "10 cm",
+    "Vibration sensor": 1
+  }
+}
